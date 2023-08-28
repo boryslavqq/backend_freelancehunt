@@ -1,6 +1,6 @@
 from aiogram import types
 from database.dao.holder import DAO
-from keyboards.inline import start_button
+from keyboards.reply import start_button
 
 
 async def start(message: types.Message, dao: DAO):
