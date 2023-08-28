@@ -1,0 +1,98 @@
+[2023-08-28 20:44:49,511] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:44:49,512] main.py [LINE:16] #INFO      Bot started!
+
+[2023-08-28 20:44:49,512] main.py [LINE:17] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:47:36,993] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:47:36,994] main.py [LINE:16] #INFO      Bot started!
+
+[2023-08-28 20:47:36,994] main.py [LINE:17] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:48:06,594] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:48:06,594] main.py [LINE:16] #INFO      Bot started!
+
+[2023-08-28 20:48:06,594] main.py [LINE:17] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:49:09,803] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:49:09,804] main.py [LINE:16] #INFO      Bot started!
+
+[2023-08-28 20:49:09,804] main.py [LINE:17] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:49:20,858] main.py [LINE:44] #ERROR     Bot stopped
+
+[2023-08-28 20:49:23,324] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:49:23,324] main.py [LINE:16] #INFO      Bot started!
+
+[2023-08-28 20:49:23,324] main.py [LINE:17] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:49:35,147] main.py [LINE:44] #ERROR     Bot stopped
+
+[2023-08-28 20:49:35,793] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:49:35,794] main.py [LINE:16] #INFO      Bot started!
+
+[2023-08-28 20:49:35,794] main.py [LINE:17] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:50:18,986] main.py [LINE:44] #ERROR     Bot stopped
+
+[2023-08-28 20:50:19,568] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:50:19,569] main.py [LINE:17] #INFO      Bot started!
+
+[2023-08-28 20:50:19,569] main.py [LINE:18] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:55:14,544] main.py [LINE:46] #ERROR     Bot stopped
+
+[2023-08-28 20:55:15,239] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:55:15,239] main.py [LINE:17] #INFO      Bot started!
+
+[2023-08-28 20:55:15,239] main.py [LINE:18] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:56:45,256] main.py [LINE:46] #ERROR     Bot stopped
+
+[2023-08-28 20:56:46,904] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 20:56:46,904] main.py [LINE:17] #INFO      Bot started!
+
+[2023-08-28 20:56:46,904] main.py [LINE:18] #DEBUG     Debug mode is on!
+
+[2023-08-28 20:59:19,279] main.py [LINE:46] #ERROR     Bot stopped
+
+[2023-08-28 21:01:52,102] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 21:01:52,102] main.py [LINE:17] #INFO      Bot started!
+
+[2023-08-28 21:01:52,102] main.py [LINE:18] #DEBUG     Debug mode is on!
+
+[2023-08-28 21:02:30,261] main.py [LINE:46] #ERROR     Bot stopped
+
+[2023-08-28 22:44:57,911] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 22:44:57,911] main.py [LINE:19] #INFO      Bot started!
+
+[2023-08-28 22:44:57,912] main.py [LINE:20] #DEBUG     Debug mode is on!
+
+[2023-08-28 22:52:14,800] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 22:52:14,800] main.py [LINE:19] #INFO      Bot started!
+
+[2023-08-28 22:52:14,800] main.py [LINE:20] #DEBUG     Debug mode is on!
+
+[2023-08-28 22:53:04,143] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 22:53:04,143] main.py [LINE:19] #INFO      Bot started!
+
+[2023-08-28 22:53:04,143] main.py [LINE:20] #DEBUG     Debug mode is on!
+
+[2023-08-28 22:58:20,934] logging.py [LINE:19] #INFO      Logging initialized!
+
+[2023-08-28 22:58:20,935] main.py [LINE:18] #INFO      Bot started!
+
+[2023-08-28 22:58:20,935] main.py [LINE:19] #DEBUG     Debug mode is on!
+
